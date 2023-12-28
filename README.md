@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-🔭 I’m currently working as a C++ Software Engineering Intern at Dynatrace
+🔭 I’m currently working on various computer graphics projects.
